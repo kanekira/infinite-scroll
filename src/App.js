@@ -52,7 +52,6 @@ function App() {
       <div>{ isLoading && <img src={logo} className="App-logo" alt = "Loading..."></img>}</div>
       <div>{error && "Something went wrong... Please try again!"}</div>
     </div>
-
   );
 }
 

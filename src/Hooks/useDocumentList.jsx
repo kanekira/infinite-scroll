@@ -12,7 +12,10 @@ function useDocumentList(pageNum, query) {
     },[query]);
 
     useEffect(() => {
-        if (!query) return;
+        if (!query) {
+            setLoading(false);
+            return;
+        }
         setLoading(true);
         setError(false);
         let cancel;
