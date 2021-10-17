@@ -1,9 +1,5 @@
-.App {
-  text-align: center;
-}
-
 .App-logo {
-  height: 40vmin;
+  height: 10vmin;
   pointer-events: none;
 }
 
@@ -13,19 +9,34 @@
   }
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.heading {
+  color: #D3D3D3;
+}
+
+.center {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  font-size: 1.5rem;
 }
 
-.App-link {
-  color: #61dafb;
+.search-box {
+  margin: 20px 0;
+}
+
+.document {
+  border-bottom: 2px solid #bbb;
+  margin-bottom: 10px;
+}
+
+.list-view {
+  width: 70%;
+  border: 3px solid #000;
+}
+
+.list-view-none {
+  display: none;
 }
 
 @keyframes App-logo-spin {
