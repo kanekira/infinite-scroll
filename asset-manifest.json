@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/infinite-scroll/static/css/main.6e3edb90.chunk.css",
+    "main.js": "/infinite-scroll/static/js/main.7b847d5c.chunk.js",
+    "main.js.map": "/infinite-scroll/static/js/main.7b847d5c.chunk.js.map",
+    "runtime-main.js": "/infinite-scroll/static/js/runtime-main.5f41bc7c.js",
+    "runtime-main.js.map": "/infinite-scroll/static/js/runtime-main.5f41bc7c.js.map",
+    "static/js/2.110d1125.chunk.js": "/infinite-scroll/static/js/2.110d1125.chunk.js",
+    "static/js/2.110d1125.chunk.js.map": "/infinite-scroll/static/js/2.110d1125.chunk.js.map",
+    "static/js/3.8f057523.chunk.js": "/infinite-scroll/static/js/3.8f057523.chunk.js",
+    "static/js/3.8f057523.chunk.js.map": "/infinite-scroll/static/js/3.8f057523.chunk.js.map",
+    "index.html": "/infinite-scroll/index.html",
+    "static/css/main.6e3edb90.chunk.css.map": "/infinite-scroll/static/css/main.6e3edb90.chunk.css.map",
+    "static/js/2.110d1125.chunk.js.LICENSE.txt": "/infinite-scroll/static/js/2.110d1125.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/infinite-scroll/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f41bc7c.js",
+    "static/js/2.110d1125.chunk.js",
+    "static/css/main.6e3edb90.chunk.css",
+    "static/js/main.7b847d5c.chunk.js"
+  ]
+}
