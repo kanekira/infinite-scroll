@@ -21,7 +21,7 @@ function useDocumentList(pageNum, query) {
         let cancel;
         axios({
             method: "GET",
-            url: "http://openlibrary.org/search.json",
+            url: "https://openlibrary.org/search.json",
             params: {q: query, page: pageNum},
             cancelToken: new axios.CancelToken(c => cancel = c)
         }).then((res) => {
